@@ -1,13 +1,14 @@
 # Tetris-SDL
 
   ## Compiling on Windows(VS 17)
-    *Required libraries:*
+  
+    Required libraries:
     
       [SDL 2.0](https://www.libsdl.org/release/SDL2-devel-2.0.7-VC.zip)
       [SDL_image](https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.2-VC.zip)
       [SDL-ttf](https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.0.14-VC.zip)
     Add to your include paths:
-      *...\SDL2\include
+      ..*...\SDL2\include
       ...\SDL2_image\include
       ...\SDL2_ttf\include
     Add to lib paths:
