@@ -6,9 +6,9 @@
       [SDL_image](https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.2-VC.zip)
       [SDL-ttf](https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.0.14-VC.zip)
     Add to your include paths:
-      *...\SDL2\include*
-      *...\SDL2_image\include*
-      *...\SDL2_ttf\include*
+      *...\SDL2\include
+      ...\SDL2_image\include
+      ...\SDL2_ttf\include
     Add to lib paths:
       ...\SDL2\lib\x86
       ...\SDL2_image\x86
